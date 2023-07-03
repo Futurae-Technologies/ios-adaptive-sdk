@@ -150,7 +150,7 @@ You can add `AdaptiveSDK` to an Xcode project by adding it as a package dependen
 You can add AdaptiveSDK by adding the following line to your Cartfile:
 
 ```
-binary https://github.com/Futurae-Technologies/ios-sdk/blob/master/CarthageJson/FuturaeKit.json
+binary https://github.com/Futurae-Technologies/ios-adaptive-sdk/blob/master/CarthageJson/AdaptiveKit.json
 ```
 
 ### Manually
