@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AdaptiveKit
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import AdaptiveKit
@@ -13,10 +13,11 @@ import SystemConfiguration
 import UIKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 @_inheritsConvenienceInitializers @objc public class AdaptiveSDK : ObjectiveC.NSObject {
   @objc override convenience dynamic public init()
-  public init(bonjourServices: [Swift.String]?, bluetoothManagerFactory: @escaping () -> AdaptiveKit.BluetoothCentralManager, locationManagerFactory: @escaping () -> AdaptiveKit.LocationManager, netServiceBrowserFactory: @escaping () -> Foundation.NetServiceBrowser, timerFactory: @escaping (Foundation.TimeInterval, Swift.Bool, @escaping (Foundation.Timer) -> Swift.Void) -> Foundation.Timer, notificationCenter: Foundation.NotificationCenter, application: AdaptiveKit.Application)
-  @objc weak public var delegate: AdaptiveKit.AdaptiveSDKDelegate?
+  public init(bonjourServices: [Swift.String]?, bluetoothManagerFactory: @escaping () -> any AdaptiveKit.BluetoothCentralManager, locationManagerFactory: @escaping () -> any AdaptiveKit.LocationManager, netServiceBrowserFactory: @escaping () -> Foundation.NetServiceBrowser, timerFactory: @escaping (Foundation.TimeInterval, Swift.Bool, @escaping (Foundation.Timer) -> Swift.Void) -> Foundation.Timer, notificationCenter: Foundation.NotificationCenter, application: any AdaptiveKit.Application)
+  @objc weak public var delegate: (any AdaptiveKit.AdaptiveSDKDelegate)?
   @objc public func startScanning()
   @objc public func startScanningOnce()
   @objc public func completeScanning()
@@ -36,7 +37,7 @@ import _StringProcessing
   @objc func networkPermissionStatus() -> AdaptiveKit.AdaptivePermissionStatus
 }
 @objc public protocol LocationManager {
-  @objc var delegate: CoreLocation.CLLocationManagerDelegate? { get set }
+  @objc var delegate: (any CoreLocation.CLLocationManagerDelegate)? { get set }
   @objc func requestWhenInUseAuthorization()
   @objc func startUpdatingLocation()
   @objc func stopUpdatingLocation()
@@ -54,7 +55,7 @@ import _StringProcessing
 extension UIKit.UIApplication : AdaptiveKit.Application {
 }
 @objc public protocol BluetoothCentralManager {
-  @objc var delegate: CoreBluetooth.CBCentralManagerDelegate? { get set }
+  @objc var delegate: (any CoreBluetooth.CBCentralManagerDelegate)? { get set }
   @objc func scanForPeripherals(withServices serviceUUIDs: [CoreBluetooth.CBUUID]?, options: [Swift.String : Any]?)
   @objc func stopScan()
 }

@@ -1,3 +1,5 @@
 {
-  "1.0.0-alpha": "https://artifactory.futurae.com/artifactory/futurae-ios/AdaptiveKit-v1.0.0-alpha-framework.zip"
+  "1.0.0-alpha": "https://artifactory.futurae.com/artifactory/futurae-ios/AdaptiveKit-v1.0.0-alpha-framework.zip",
+  "1.0.1-alpha": "https://github.com/Futurae-Technologies/ios-adaptive-sdk/releases/download/v1.0.1-alpha/AdaptiveKit-v1.0.1.xcframework.zip"
 }
+

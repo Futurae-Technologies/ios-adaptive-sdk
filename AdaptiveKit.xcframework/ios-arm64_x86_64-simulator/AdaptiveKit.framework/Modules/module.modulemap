@@ -1,7 +1,7 @@
 framework module AdaptiveKit {
   umbrella header "AdaptiveKit.h"
-
   export *
+
   module * { export * }
 }
 

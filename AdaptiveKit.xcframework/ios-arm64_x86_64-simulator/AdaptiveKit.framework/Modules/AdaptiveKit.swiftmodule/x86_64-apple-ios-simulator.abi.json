@@ -2227,389 +2227,613 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Bluetooth.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 19,
+      "value": "\"NSBonjourServices\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 630,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveSDK.swift",
+      "kind": "Dictionary",
+      "offset": 5130,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveSDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6195,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6198,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Bluetooth.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Bluetooth.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Bluetooth.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/ScanningBackgroundSuspender.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/ScanningBackgroundSuspender.swift",
       "kind": "Array",
       "offset": 631,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 226,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 259,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 394,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 437,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 226,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/PermissionsHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 259,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NearbyDevice.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NearbyDevice.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NearbyDevice.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NearbyDevice.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/BluetoothDevicesProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/BluetoothDevicesProvider.swift",
       "kind": "StringLiteral",
       "offset": 150,
       "length": 24,
       "value": "\"AdaptiveKit.BluetoothDevicesProvider\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NetworkInfo.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/State.swift",
+      "kind": "Array",
+      "offset": 227,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/State.swift",
+      "kind": "BooleanLiteral",
+      "offset": 249,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NetworkInfo.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NetworkInfo.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/NetworkInfo.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NearbyDevicesProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/BackgroundTaskScheduler.swift",
+      "kind": "StringLiteral",
+      "offset": 181,
+      "length": 40,
+      "value": "\"com.futurae.AdaptiveKit.backgroundTask\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NearbyDevicesProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 788,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NearbyDevicesProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1190,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NearbyDevicesProvider.swift",
       "kind": "StringLiteral",
       "offset": 148,
       "length": 21,
       "value": "\"AdaptiveKit.NearbyDevicesProvider\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 400,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 13,
       "value": "\"wifiNetwork\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 9,
       "value": "\"bleScan\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 548,
       "length": 20,
       "value": "\"locationCollection\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 602,
       "length": 20,
       "value": "\"adaptive_analytics\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 400,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 13,
       "value": "\"wifiNetwork\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 9,
       "value": "\"bleScan\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 548,
       "length": 20,
       "value": "\"locationCollection\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
       "kind": "StringLiteral",
       "offset": 602,
       "length": 20,
       "value": "\"adaptive_analytics\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "kind": "Array",
+      "offset": 912,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "kind": "Array",
+      "offset": 944,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveData.swift",
+      "kind": "Array",
+      "offset": 1002,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 13,
       "value": "\"collections\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 580,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 595,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 703,
+      "length": 15,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 717,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 847,
+      "length": 23,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 861,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1298,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Public\/AdaptiveStorage.swift",
+      "kind": "Array",
+      "offset": 2314,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
       "kind": "IntegerLiteral",
       "offset": 167,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
       "kind": "IntegerLiteral",
       "offset": 191,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/CollectionThreshold.swift",
       "kind": "IntegerLiteral",
       "offset": 214,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 22,
       "value": "\"bluetooth_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 540,
       "length": 19,
       "value": "\"bluetooth_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 593,
       "length": 20,
       "value": "\"network_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 644,
       "length": 17,
       "value": "\"network_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 696,
       "length": 21,
       "value": "\"location_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 759,
       "length": 29,
       "value": "\"location_precise_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 820,
       "length": 18,
       "value": "\"location_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 22,
       "value": "\"bluetooth_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 540,
       "length": 19,
       "value": "\"bluetooth_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 593,
       "length": 20,
       "value": "\"network_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 644,
       "length": 17,
       "value": "\"network_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 696,
       "length": 21,
       "value": "\"location_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 759,
       "length": 29,
       "value": "\"location_precise_permission\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 820,
       "length": 18,
       "value": "\"location_setting\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/DataReducer.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/DataReducer.swift",
       "kind": "IntegerLiteral",
       "offset": 75,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/LocationProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/DataReducer.swift",
+      "kind": "Dictionary",
+      "offset": 674,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/DataReducer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1078,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/LocationProvider.swift",
       "kind": "StringLiteral",
       "offset": 141,
       "length": 16,
       "value": "\"AdaptiveKit.LocationProvider\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 5,
       "value": "\"lon\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/Location.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 5,
       "value": "\"lon\""
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "kind": "Array",
+      "offset": 650,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1648,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1863,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
       "kind": "Array",
       "offset": 2018,
       "length": 14,
       "value": "[\"en0\", \"en1\"]"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
       "kind": "Array",
       "offset": 2056,
       "length": 21,
       "value": "[\"en2\", \"en3\", \"en4\"]"
     },
     {
-      "filePath": "\/Users\/armendh\/repos\/futurae\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Logic\/NetworkInfoProvider.swift",
       "kind": "Array",
       "offset": 2104,
       "length": 44,
       "value": "[\"pdp_ip0\", \"pdp_ip1\", \"pdp_ip2\", \"pdp_ip3\"]"
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveError.swift",
+      "kind": "StringLiteral",
+      "offset": 270,
+      "length": 97,
+      "value": "\"Threshold must be more than \""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveError.swift",
+      "kind": "StringLiteral",
+      "offset": 325,
+      "length": 3,
+      "value": "\" and less than \""
+    },
+    {
+      "filePath": "\/Users\/hvozdiev\/Desktop\/dev\/futurae-ios-sdk\/AdaptiveKit\/AdaptiveKit\/Internal\/Models\/AdaptiveError.swift",
+      "kind": "StringLiteral",
+      "offset": 366,
+      "length": 1,
+      "value": "\"\""
     }
   ]
 }
